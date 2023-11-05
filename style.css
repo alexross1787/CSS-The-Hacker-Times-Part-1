@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+
+body {
+    background-color: #eeeeee;
+}
+
+.newspaper-container {
+    width: 90vw;
+    background: white;
+    margin: 1em auto;
+
+}
+
+.date {
+    font-size: 75%;
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5c5a5a8a;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+nav {
+    text-align: center;
+    width: 100%;
+}
+
+ul {
+    padding-inline-start: 0%;
+    border-top: 1px solid #7878787a;
+    border-bottom: 1px solid #7878787a;
+    
+}
+
+nav ul li{
+    display: inline;
+    text-align: center;
+    padding: 0 .5em;
+    width: 90vw;
+
+}
+
+
+a {
+    text-decoration: none;
+    color: #7878787a;
+    font-size: 1em;
+    
+    
+}
+
+h2 {
+    padding-left: .5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h5 {
+    color: red;
+    padding-left: .5em;
+}
+
+.keyboard-img img {
+    width: 100%;
+}
+
+p {
+    padding: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-weight: 100;
+    color: rgb(80, 79, 79)
+}
+
+.more-articles {
+    margin-left: 2em;
+}
+
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1em;
+}
+
+.article {
+    width: 45%;
+    display: inline-block;
+    padding: 0 1em;
+
+
+}
+
+.article img {
+    width: 100%;
+}
